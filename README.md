@@ -1,6 +1,8 @@
 ### 👋 Hi there, I am Chirag
 
-I am currently working on making machines be more creative. [Blog](https://zvovov.github.io) [Linkedin](https://linkedin.com/in/khatrichirag)
+I am currently working on making machines be more creative.  
+
+Check out my work at [zvovov.github.io](https://zvovov.github.io). Connect on [Linkedin](https://linkedin.com/in/khatrichirag)
 
 Always up for interesting conversations about: 
   - :movie_camera: Cinema: I like [David Fincher](https://www.imdb.com/name/nm0000399/), [Anurag Kashyap](https://www.imdb.com/name/nm0440604/) and [Denis Villeneuve](https://www.imdb.com/name/nm0898288/) and [more](https://zvovov.github.io/blog/tags#movies)
