@@ -1,12 +1,12 @@
 ### 👋 Hi there, I am Chirag
 
-I am currently working on making machines be more creative. Do check out my writings on [zvovov.github.io](https://zvovov.github.io)  
+I am currently working on making machines be more creative. [Blog](https://zvovov.github.io) [Linkedin](https://linkedin.com/in/khatrichirag)
 
 Always up for interesting conversations about: 
   - :movie_camera: Cinema: I like [David Fincher](https://www.imdb.com/name/nm0000399/), [Anurag Kashyap](https://www.imdb.com/name/nm0440604/) and [Denis Villeneuve](https://www.imdb.com/name/nm0898288/) and [more](https://zvovov.github.io/blog/tags#movies)
   - :garlic: Cooking: I source recipes from [Joshua Weismann](https://www.youtube.com/c/JoshuaWeissman) and knowledge from [Samin Nosrat](https://www.saltfatacidheat.com/)
   - :cartwheeling: Fitness: Practicing routines focused on [strength](https://www.youtube.com/user/FitnessFAQs) and [flexibility](https://www.youtube.com/c/Strengthside) through [movement](https://www.youtube.com/user/portaldo)
-  - 🌱 Using machine learning in real-life (primarily for fun :dancer:, :money_with_wings: optional)
+  - 🌱 Using machine learning primarily for fun :dancer:, :money_with_wings: optional
 
 <!--
 Here are some ideas to get you started:
